@@ -9,7 +9,7 @@
         list.forEach(t=>{
             c.append(`
 <div class="col-lg-6 fade-slide bottom mb-4">
-    <div class="single-tournament-2">
+    <div class="single-tournament-2 tournament-card" data-link="${t.liveUrl}">
         <img class="bg-img" src="assets/img/tournament/bg-3.png" alt="img">
         <div class="content-area">
             <div class="top-area d-flex align-items-center align-self-center">
@@ -54,6 +54,11 @@
         const id=$(this).data('id');
         await fetch('/api/tournaments/'+id,{method:'DELETE'});
         render();
+    });
+    $(document).on('click','.tournament-card',function(e){
+        if($(e.target).closest('button,a').length) return;
+        const link=$(this).data('link');
+        if(link) window.open(link,'_blank');
     });
     $(function(){
         if(auth.isAdmin()) $('#addTournamentForm').show();
