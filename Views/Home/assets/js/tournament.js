@@ -20,15 +20,13 @@
                 </div>
                 ${auth.isAdmin()?`<button class='btn btn-danger btn-sm ms-auto' data-id='${t.id}'>Удалить</button>`:''}
             </div>
+            ${t.liveUrl?`<div class='text-end mt-2'><a class='btn btn-gray btn-sm' href='${t.liveUrl}' target='_blank'>live</a></div>`:''}
             <span class="line-shadow"></span>
             <div class="bottom-area">
                 <div class="row">
-                    <div class="col-6">
+                    <div class="col-12">
                         <span>PRIZE</span><br>
                         <span class="color-base">${t.prize}</span>
-                    </div>
-                    <div class="col-6 text-end">
-                        ${t.liveUrl?`<a class='btn btn-gray' href='${t.liveUrl}' target='_blank'>live</a>`:''}
                     </div>
                 </div>
             </div>
