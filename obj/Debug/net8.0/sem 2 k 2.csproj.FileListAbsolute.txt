@@ -1,0 +1,203 @@
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\sem 2 k 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\sem 2 k 2.AssemblyInfoInputs.cache
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\sem 2 k 2.AssemblyInfo.cs
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\sem 2 k 2.csproj.CoreCompileInputs.cache
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\sem 2 k 2.MvcApplicationPartsAssemblyInfo.cache
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\sem 2 k 2.RazorAssemblyInfo.cache
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\sem 2 k 2.RazorAssemblyInfo.cs
+D:\прога проекты\sem 2 k 2\bin\Debug\net8.0\appsettings.Development.json
+D:\прога проекты\sem 2 k 2\bin\Debug\net8.0\appsettings.json
+D:\прога проекты\sem 2 k 2\bin\Debug\net8.0\sem 2 k 2.staticwebassets.runtime.json
+D:\прога проекты\sem 2 k 2\bin\Debug\net8.0\sem 2 k 2.staticwebassets.endpoints.json
+D:\прога проекты\sem 2 k 2\bin\Debug\net8.0\sem 2 k 2.exe
+D:\прога проекты\sem 2 k 2\bin\Debug\net8.0\sem 2 k 2.deps.json
+D:\прога проекты\sem 2 k 2\bin\Debug\net8.0\sem 2 k 2.runtimeconfig.json
+D:\прога проекты\sem 2 k 2\bin\Debug\net8.0\sem 2 k 2.dll
+D:\прога проекты\sem 2 k 2\bin\Debug\net8.0\sem 2 k 2.pdb
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\scopedcss\bundle\sem 2 k 2.styles.css
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\scopedcss\projectbundle\sem 2 k 2.bundle.scp.css
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\staticwebassets.build.json
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\staticwebassets.development.json
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\staticwebassets\msbuild.sem 2 k 2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\staticwebassets\msbuild.sem 2 k 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\staticwebassets\msbuild.build.sem 2 k 2.props
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sem 2 k 2.props
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sem 2 k 2.props
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\sem 2 k 2.dll
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\refint\sem 2 k 2.dll
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\sem 2 k 2.pdb
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\sem 2 k 2.genruntimeconfig.cache
+D:\прога проекты\sem 2 k 2\obj\Debug\net8.0\ref\sem 2 k 2.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.AssemblyInfoInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.AssemblyInfo.cs
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.csproj.CoreCompileInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.RazorAssemblyInfo.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.RazorAssemblyInfo.cs
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.sourcelink.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\refint\sem 2 k 2.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\appsettings.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\sem 2 k 2.staticwebassets.runtime.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\sem 2 k 2.staticwebassets.endpoints.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\sem 2 k 2.exe
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\sem 2 k 2.deps.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\sem 2 k 2.runtimeconfig.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\sem 2 k 2.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\sem 2 k 2.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.csproj.AssemblyReference.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\scopedcss\bundle\sem 2 k 2.styles.css
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\scopedcss\projectbundle\sem 2 k 2.bundle.scp.css
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\staticwebassets\msbuild.sem 2 k 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\staticwebassets\msbuild.sem 2 k 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\staticwebassets\msbuild.build.sem 2 k 2.props
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sem 2 k 2.props
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sem 2 k 2.props
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.csproj.Up2Date
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\sem 2 k 2.genruntimeconfig.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\2-sem-2-kurs\obj\Debug\net8.0\ref\sem 2 k 2.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\appsettings.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\sem 2 k 2.staticwebassets.endpoints.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\sem 2 k 2.staticwebassets.runtime.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\sem 2 k 2.exe
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\sem 2 k 2.deps.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\sem 2 k 2.runtimeconfig.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\sem 2 k 2.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\sem 2 k 2.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.csproj.AssemblyReference.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.AssemblyInfoInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.AssemblyInfo.cs
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.csproj.CoreCompileInputs.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.RazorAssemblyInfo.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.RazorAssemblyInfo.cs
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\scopedcss\bundle\sem 2 k 2.styles.css
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\scopedcss\projectbundle\sem 2 k 2.bundle.scp.css
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\staticwebassets\msbuild.sem 2 k 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\staticwebassets\msbuild.sem 2 k 2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\staticwebassets\msbuild.build.sem 2 k 2.props
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.sem 2 k 2.props
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.sem 2 k 2.props
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.csproj.Up2Date
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\refint\sem 2 k 2.dll
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.pdb
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\sem 2 k 2.genruntimeconfig.cache
+C:\Users\timyr\OneDrive\Рабочий стол\попытка8\репоз\try2oris\obj\Debug\net8.0\ref\sem 2 k 2.dll
