@@ -37,7 +37,7 @@
 </div>`);
         });
     }
-    $(document).on('submit','#addTournamentForm',async function(e){
+    $(document).on('submit','.addTournamentForm',async function(e){
         e.preventDefault();
         const form=$(this);
         await fetch('/api/tournaments',{
@@ -64,7 +64,7 @@
         if(link) window.open(link,'_blank');
     });
     $(function(){
-        if(auth.isAdmin()) $('#addTournamentForm').show();
+        if(auth.isAdmin()) $('.addTournamentForm').show();
         render();
     });
 })();
