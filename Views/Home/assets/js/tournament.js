@@ -8,7 +8,7 @@
         const c = $('#tournamentList').empty();
         list.forEach(t=>{
             c.append(`
-<div class="col-lg-6 fade-slide bottom mb-4">
+ <div class="col-lg-6 fade-slide bottom mb-4">
     <div class="single-tournament-2">
         <img class="bg-img" src="assets/img/tournament/bg-3.png" alt="img">
         <div class="content-area">
@@ -22,10 +22,13 @@
             </div>
             <span class="line-shadow"></span>
             <div class="bottom-area">
-                <div class="row">
-                    <div class="col-4">
+                <div class="row align-items-center">
+                    <div class="col-6">
                         <span>PRIZE</span><br>
                         <span class="color-base">${t.prize}</span>
+                    </div>
+                    <div class="col-6 text-end">
+                        ${t.liveUrl?`<a class='btn btn-gray btn-sm' href='${t.liveUrl}' target='_blank' rel='noopener noreferrer'>live</a>`:''}
                     </div>
                 </div>
             </div>
@@ -39,7 +42,12 @@
         await fetch('/api/tournaments',{
             method:'POST',
             headers:{'Content-Type':'application/json'},
-            body:JSON.stringify({name:$('#tourName').val(),prize:$('#tourPrize').val(),imageUrl:$('#tourImage').val()})
+            body:JSON.stringify({
+                name:$('#tourName').val(),
+                prize:$('#tourPrize').val(),
+                imageUrl:$('#tourImage').val(),
+                liveUrl:$('#tourLink').val()
+            })
         });
         render();
         this.reset();
