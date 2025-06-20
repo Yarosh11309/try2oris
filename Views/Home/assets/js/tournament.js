@@ -8,8 +8,8 @@
         const c = $('#tournamentList').empty();
         list.forEach(t=>{
             c.append(`
-<div class="col-lg-6 fade-slide bottom mb-4">
-    <div class="single-tournament-2 tournament-card" data-link="${t.liveUrl}">
+ <div class="col-lg-6 fade-slide bottom mb-4">
+    <div class="single-tournament-2">
         <img class="bg-img" src="assets/img/tournament/bg-3.png" alt="img">
         <div class="content-area">
             <div class="top-area d-flex align-items-center align-self-center">
@@ -37,17 +37,16 @@
 </div>`);
         });
     }
-    $(document).on('submit','.addTournamentForm',async function(e){
+    $(document).on('submit','#addTournamentForm',async function(e){
         e.preventDefault();
-        const form=$(this);
         await fetch('/api/tournaments',{
             method:'POST',
             headers:{'Content-Type':'application/json'},
             body:JSON.stringify({
-                name:form.find('#tourName').val(),
-                prize:form.find('#tourPrize').val(),
-                imageUrl:form.find('#tourImage').val(),
-                liveUrl:form.find('#tourLink').val()
+                name:$('#tourName').val(),
+                prize:$('#tourPrize').val(),
+                imageUrl:$('#tourImage').val(),
+                liveUrl:$('#tourLink').val()
             })
         });
         render();
@@ -58,13 +57,8 @@
         await fetch('/api/tournaments/'+id,{method:'DELETE'});
         render();
     });
-    $(document).on('click','.tournament-card',function(e){
-        if($(e.target).closest('button,a').length) return;
-        const link=$(this).data('link');
-        if(link) window.open(link,'_blank');
-    });
     $(function(){
-        if(auth.isAdmin()) $('.addTournamentForm').show();
+        if(auth.isAdmin()) $('#addTournamentForm').show();
         render();
     });
 })();
