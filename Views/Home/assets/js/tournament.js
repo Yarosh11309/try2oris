@@ -28,7 +28,7 @@
                         <span class="color-base">${t.prize}</span>
                     </div>
                     <div class="col-6 text-end">
-                        ${t.liveUrl?`<a class='btn btn-gray btn-sm' href='${t.liveUrl}' target='_blank'>live</a>`:''}
+                        ${t.liveUrl?`<a class='btn btn-gray btn-sm' href='${t.liveUrl}' target='_blank' rel='noopener noreferrer'>live</a>`:''}
                     </div>
                 </div>
             </div>
@@ -39,14 +39,15 @@
     }
     $(document).on('submit','#addTournamentForm',async function(e){
         e.preventDefault();
+        const form=$(this);
         await fetch('/api/tournaments',{
             method:'POST',
             headers:{'Content-Type':'application/json'},
             body:JSON.stringify({
-                name:$('#tourName').val(),
-                prize:$('#tourPrize').val(),
-                imageUrl:$('#tourImage').val(),
-                liveUrl:$('#tourLink').val()
+                name:form.find('#tourName').val(),
+                prize:form.find('#tourPrize').val(),
+                imageUrl:form.find('#tourImage').val(),
+                liveUrl:form.find('#tourLink').val()
             })
         });
         render();
