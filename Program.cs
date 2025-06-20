@@ -32,8 +32,8 @@ namespace sem_2_k_2
                 if (!db.Tournaments.Any())
                 {
                     db.Tournaments.AddRange(
-                        new Tournament { Name = "Escape Room", Prize = "$35000", ImageUrl = "assets/img/tournament/7.png" },
-                        new Tournament { Name = "Escape Room", Prize = "$35000", ImageUrl = "assets/img/tournament/8.png" }
+                        new Tournament { Name = "Escape Room", Prize = "$35000", ImageUrl = "assets/img/tournament/7.png", Live = "https://example.com/1" },
+                        new Tournament { Name = "Escape Room", Prize = "$35000", ImageUrl = "assets/img/tournament/8.png", Live = "https://example.com/2" }
                     );
                 }
                 db.SaveChanges();

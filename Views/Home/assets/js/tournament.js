@@ -7,9 +7,9 @@
         const list = await load();
         const c = $('#tournamentList').empty();
         list.forEach(t=>{
-            c.append(`
+            const item = $(`
 <div class="col-lg-6 fade-slide bottom mb-4">
-    <div class="single-tournament-2">
+    <div class="single-tournament-2" data-live="${t.live}" style="cursor:pointer">
         <img class="bg-img" src="assets/img/tournament/bg-3.png" alt="img">
         <div class="content-area">
             <div class="top-area d-flex align-items-center align-self-center">
@@ -32,6 +32,11 @@
         </div>
     </div>
 </div>`);
+            item.find('.single-tournament-2').on('click',function(){
+                const url=$(this).data('live');
+                if(url) window.open(url,'_blank');
+            });
+            c.append(item);
         });
     }
     $(document).on('submit','#addTournamentForm',async function(e){
@@ -39,7 +44,7 @@
         await fetch('/api/tournaments',{
             method:'POST',
             headers:{'Content-Type':'application/json'},
-            body:JSON.stringify({name:$('#tourName').val(),prize:$('#tourPrize').val(),imageUrl:$('#tourImage').val()})
+            body:JSON.stringify({name:$('#tourName').val(),prize:$('#tourPrize').val(),imageUrl:$('#tourImage').val(),live:$('#tourLive').val()})
         });
         render();
         this.reset();
