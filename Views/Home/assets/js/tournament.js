@@ -23,9 +23,12 @@
             <span class="line-shadow"></span>
             <div class="bottom-area">
                 <div class="row">
-                    <div class="col-4">
+                    <div class="col-6">
                         <span>PRIZE</span><br>
                         <span class="color-base">${t.prize}</span>
+                    </div>
+                    <div class="col-6 text-end">
+                        ${t.liveUrl?`<a class='btn btn-gray' href='${t.liveUrl}' target='_blank'>live</a>`:''}
                     </div>
                 </div>
             </div>
@@ -39,7 +42,12 @@
         await fetch('/api/tournaments',{
             method:'POST',
             headers:{'Content-Type':'application/json'},
-            body:JSON.stringify({name:$('#tourName').val(),prize:$('#tourPrize').val(),imageUrl:$('#tourImage').val()})
+            body:JSON.stringify({
+                name:$('#tourName').val(),
+                prize:$('#tourPrize').val(),
+                imageUrl:$('#tourImage').val(),
+                liveUrl:$('#tourLink').val()
+            })
         });
         render();
         this.reset();
